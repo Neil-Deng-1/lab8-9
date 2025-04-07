@@ -1,0 +1,24 @@
+/* Reset default styles */
+* {
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+
+h1 {
+    font-size: 35px;  
+}
+
+.container {
+    max-width: 700px;
+    margin: 2rem auto;
+    font-family: Arial, sans-serif;
+}
+
+#vis {
+    margin: 2rem auto;
+    border: 1px solid #047da1;
+}
+
+/* #vis svg {
+    margin: 2rem 0;
+    border: 1px solid #047da1;
+}
